@@ -3,7 +3,6 @@
 
 A complete end-to-end NLP project that analyzes customer sentiments from Flipkart product reviews using rule-based and machine learning approaches.
 
----
 
 ## Dataset
 
@@ -12,18 +11,16 @@ A complete end-to-end NLP project that analyzes customer sentiments from Flipkar
 - Unique Products: 1,175  
 - Columns: Product Name, Price, Rating, Review, Summary  
 
----
 
 ## Project Structure
 
-```
 flipkart-sentiment-analysis/
 ├── app.py
 ├── sentiment_analysis.ipynb
 ├── README.md
 ```
 
----
+
 
 ## What This Project Does
 
@@ -36,7 +33,6 @@ flipkart-sentiment-analysis/
 - Evaluates and compares all model performances
 - Deploys an interactive web app using Streamlit
 
----
 
 ## Model Performance
 
@@ -47,7 +43,7 @@ flipkart-sentiment-analysis/
 | VADER | 74% |
 | TextBlob | 69% |
 
----
+
 
 ## Technologies Used
 
