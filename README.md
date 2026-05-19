@@ -3,7 +3,6 @@
 
 A complete end-to-end NLP project that analyzes customer sentiments from Flipkart product reviews using rule-based and machine learning approaches.
 
-
 ## Dataset
 
 - Source: Flipkart Product Reviews  
